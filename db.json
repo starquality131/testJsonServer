@@ -1,11 +1,11 @@
 {
     "posts": [
-      {
+        {
         "id": 1,
         "title": "hello"
-      }
+        }
     ],
     "profile": {
-      "name": "hello world"
+        "name": "hello world"
     }
-  }
+}
